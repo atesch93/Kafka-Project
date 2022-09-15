@@ -1,0 +1,8 @@
+kafka-python==2.0.2
+fastapi[all]== 0.75.1
+python-dotenv==0.20.0
+requests
+Faker==13.3.4
+pymongo
+google-cloud-bigquery
+google-cloud-pubsub>=2.6.1
